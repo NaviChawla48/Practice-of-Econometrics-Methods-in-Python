@@ -1,0 +1,1 @@
+In this project I practiced econometric methods using specific problems given to me by the professor I was assisting with research. Using python I statistically analyzed data using econometric methods to determine the meaning of the output.
